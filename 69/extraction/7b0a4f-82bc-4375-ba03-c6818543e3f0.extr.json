@@ -1,0 +1,36 @@
+{
+    "beam_diameter": "",
+    "cleanup_duration": 15.0,
+    "commit": "94d326b5d57295f5f6df176c83feb1765598d78d",
+    "cryo_temperature": 0.0,
+    "extract_device": "NMGRL Furnace",
+    "extract_duration": 1320.0,
+    "extract_units": "temp",
+    "extract_value": 896.0,
+    "extraction_context": {},
+    "grain_polygons": [],
+    "light_value": 0,
+    "load_holder": "---",
+    "load_name": "F0031",
+    "pattern": "",
+    "pid": "HO,20;XP,4600;TI,30;TD,7;LB,9999;HB,12000",
+    "pipette_counts": [],
+    "positions": [
+        {
+            "is_degas": false,
+            "position": 4,
+            "x": null,
+            "y": null,
+            "z": null
+        }
+    ],
+    "post_cleanup_duration": 0.0,
+    "pre_cleanup_duration": 0.0,
+    "ramp_duration": 0.0,
+    "ramp_rate": 0.0,
+    "snapshots": [],
+    "timestamp": "2024-06-16T18:28:30.622707",
+    "tray": "---",
+    "videos": [],
+    "weight": 2.37
+}
